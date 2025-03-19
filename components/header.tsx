@@ -18,6 +18,7 @@ export default function Header() {
 
   return (
     <header className="fixed left-0 top-0 z-20 w-full border-b border-gray-200 bg-white">
+      <meta name="google-site-verification" content="UAi1LiF48Qyitx8jDdJti1usq0o0n3oHWkzMkhrEuwc" />
       <div className="container mx-auto flex items-center p-4 md:px-6">
         <a href="/" className="flex items-center">
           <img src="/assets/nest1.png" className="mr-3 h-20" alt={siteConfig.name} />
